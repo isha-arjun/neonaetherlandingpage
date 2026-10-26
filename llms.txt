@@ -1,0 +1,16 @@
+# Neon Aether
+
+> Neon Aether is an independent game studio and the developer of the retro sci-fi platformer Neon Aether.
+
+The game's planned launch is February 10, 2027. Planned platforms are PC / Steam, iOS, and Android. Features include pixel art, alien-world exploration, dynamic combat, and puzzles. The official website currently accepts launch waitlist signups.
+
+## Official website
+
+- [Neon Aether](https://neonaether.netlify.app/): Studio and game overview.
+- [Game features](https://neonaether.netlify.app/#features): Gameplay and pixel-art details.
+- [Pricing](https://neonaether.netlify.app/#pricing): Advertised full-game price.
+- [Launch waitlist](https://neonaether.netlify.app/#waitlist): Email signup for launch news.
+
+## Index
+
+- [Sitemap](https://neonaether.netlify.app/sitemap.xml): Published canonical pages.

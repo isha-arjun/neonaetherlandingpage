@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8b5cf6" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#030712"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect x="56" y="56" width="1088" height="518" rx="28" fill="#0f172a" stroke="#8b5cf6" stroke-opacity=".4"/>
+  <rect x="100" y="106" width="78" height="6" rx="3" fill="url(#accent)"/>
+  <text x="100" y="168" fill="#c4b5fd" font-family="sans-serif" font-size="23" font-weight="600" letter-spacing="5">INDEPENDENT GAME STUDIO</text>
+  <text x="94" y="300" fill="url(#accent)" font-family="sans-serif" font-size="98" font-weight="900" letter-spacing="2">NEON AETHER</text>
+  <text x="100" y="368" fill="#f3f4f6" font-family="sans-serif" font-size="34">A retro sci-fi platformer.</text>
+  <text x="100" y="422" fill="#9ca3af" font-family="sans-serif" font-size="25">Alien worlds. Dynamic combat. Intricate puzzles.</text>
+  <text x="100" y="516" fill="#22d3ee" font-family="sans-serif" font-size="22">neonaether.netlify.app</text>
+</svg>
