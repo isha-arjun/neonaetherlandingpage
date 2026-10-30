@@ -1,3 +1,8 @@
+# Neon Aether — crawler access policy
+# Allows well-behaved crawlers, including AI/search crawlers, to access all public pages.
+# Robots.txt is a request, not an access-control mechanism; individual crawlers may choose
+# whether to follow it. Do not publish private or sensitive content on the public website.
+
 User-agent: *
 Allow: /
 
