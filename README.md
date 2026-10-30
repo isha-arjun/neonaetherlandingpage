@@ -15,3 +15,4 @@ Copy the contents of this folder into the GitHub repository connected to the exi
 - No unverified character portraits are fabricated; character dossiers are interactive text cards.
 - The unedited Andrew turnaround sheet in the supplied package is deliberately excluded.
 - Supplied key art and environment assets are retained in `assets/`.
+# Andrew
