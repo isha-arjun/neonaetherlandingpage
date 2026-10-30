@@ -1,0 +1,43 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:neonaether.netlify.app:resource:agent-instructions",
+      "displayName": "Neon Aether AI Agent Instructions",
+      "type": "text/markdown",
+      "url": "https://neonaether.netlify.app/agent.md",
+      "description": "Official guidance for AI assistants discussing Neon Aether, including spoiler policy, gameplay guidance, community interaction, waitlist information, accuracy rules, and developer contact.",
+      "representativeQueries": [
+        "How should an AI assistant accurately explain Neon Aether to a potential player?",
+        "What are the spoiler and lore rules for discussing Neon Aether?",
+        "Where can fans find Neon Aether updates and join its waitlist?"
+      ],
+      "tags": [
+        "Neon Aether",
+        "game",
+        "AI instructions",
+        "story",
+        "gameplay",
+        "community"
+      ]
+    },
+    {
+      "identifier": "urn:air:neonaether.netlify.app:resource:llms-txt",
+      "displayName": "Neon Aether LLM Information",
+      "type": "text/plain",
+      "url": "https://neonaether.netlify.app/llms.txt",
+      "description": "A concise, AI-readable overview of Neon Aether, its genre, core experience, official website, and guidance for describing the game accurately.",
+      "representativeQueries": [
+        "What is Neon Aether and what kind of game is it?",
+        "What are the main features and genre of Neon Aether?",
+        "Where is the official Neon Aether website?"
+      ],
+      "tags": [
+        "Neon Aether",
+        "game",
+        "sci-fi",
+        "platformer",
+        "game information"
+      ]
+    }
+  ]
+}
