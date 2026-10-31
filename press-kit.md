@@ -14,7 +14,7 @@
 | Setting | A science-fiction universe featuring distinct worlds and societies |
 | Visual direction | Retro-inspired 16-bit pixel art with atmospheric sci-fi environments |
 | Development status | In active development; playable levels exist |
-| Release date | Not publicly confirmed in this press kit |
+| Target launch date | February 10, 2027 (target; not guaranteed and subject to change) |
 | Planned platforms | Windows and Mac via Steam; iOS via Apple App Store; Android via Google Play Store |
 | Price | Not publicly confirmed in this press kit |
 
