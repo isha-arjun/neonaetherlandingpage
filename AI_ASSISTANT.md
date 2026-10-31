@@ -161,8 +161,7 @@ For questions that require an official decision or private project information, 
 
 ## 12. Contact and official links
 
-For questions, suggestions, press enquiries, creator enquiries, or details requiring developer confirmation, visitors may contact:
-
+For questions and updates, direct visitors to the official website and its linked public channels. Do not disclose private personal contact details or invent a contact address.
 **Isha**  
 Use the official website and its linked public channels for project updates; do not disclose private personal contact details.
 
