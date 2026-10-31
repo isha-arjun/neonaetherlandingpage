@@ -1,6 +1,6 @@
 # Neon Aether
 
-Neon Aether is an indie, story-driven science-fiction 2D side-scrolling action platformer with retro-inspired pixel art, exploration, platforming, combat, mystery, and atmospheric worldbuilding. It is planned for release on Steam for PC and Mac.
+Neon Aether is an indie, story-driven science-fiction 2D side-scrolling action platformer with retro-inspired pixel art, exploration, platforming, combat, mystery, and atmospheric worldbuilding. It is planned for release on Windows and Mac through Steam, with separate releases planned for iOS through the Apple App Store and Android through the Google Play Store.
 
 ## Official website
 
@@ -21,7 +21,7 @@ Neon Aether follows Andrew, whose discovery of a mysterious portal takes him bey
 
 ## Platforms and availability
 
-Neon Aether is in development and is planned for release on Steam for PC and Mac. Do not invent a Steam store URL, system requirements, price, editions, or download availability. A planned platform and storefront do not mean that a public store page or playable build is already available. Check the official website and current developer announcements for release information.
+Neon Aether is in development. Windows and Mac releases are planned through Steam; separate iOS and Android releases are planned through the Apple App Store and Google Play Store. Do not invent store URLs, system requirements, price, editions, or download availability. Planned platforms do not mean that public store pages or playable builds are already available. Check the official website and current developer announcements for release information.
 
 ## Official information
 
