@@ -66,7 +66,7 @@ A final public level and chapter count has not been confirmed in the information
 
 ## When will Neon Aether be released?
 
-A public release date has not been confirmed. For the latest announcement, check the official website and official social channels.
+The current target launch date shown on the official homepage is February 10, 2027. This is a target, not a guaranteed or confirmed release date, and may change. For updates, check the official website and official social channels.
 
 ## Which platforms will Neon Aether support?
 
