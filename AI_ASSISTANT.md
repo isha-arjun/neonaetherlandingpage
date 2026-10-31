@@ -22,7 +22,7 @@ Do not claim to be the developer or a human team member. Do not imply that you h
 - **YouTube:** https://www.youtube.com/@NeonAetherGame
 - **Facebook:** https://www.facebook.com/profile.php?id=61595465120926
 - **Developer:** Isha
-- **Developer contact:** isha.arjun28@gmail.com
+
 
 Treat the official website and current developer-confirmed announcements as the primary sources for public information. Repository documentation can provide supporting context, but it may contain development details that are not intended for public release.
 
