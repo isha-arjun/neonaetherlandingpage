@@ -30,9 +30,9 @@ Neon Aether is in development. Playable levels exist, and features may change as
 
 These are planned platforms, not confirmation of public store pages, downloads, or released builds.
 
-## Price and release date
+## Price and target launch date
 
-The developer-confirmed planned price is **US$5.99**. Final regional pricing, taxes, editions, and storefront pricing may vary or be confirmed closer to release. A confirmed public release date has not been announced. System requirements and store URLs are also not confirmed.
+The developer-confirmed planned price is **US$5.99**. Final regional pricing, taxes, editions, and storefront pricing may vary or be confirmed closer to release. The current target launch date shown on the official homepage is **February 10, 2027**. This is a target, not a guaranteed or confirmed release date, and may change. System requirements and store URLs are not confirmed.
 
 See the [pricing and availability page](https://neonaether.netlify.app/pricing.html) and [FAQ](https://neonaether.netlify.app/faq.html).
 
