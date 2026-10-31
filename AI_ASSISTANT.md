@@ -99,7 +99,7 @@ Do not invent controls, mechanics, boss identities, level counts, playtime, diff
 ## 7. Development status, platforms, and availability
 
 Neon Aether is in active development, with playable levels. Its planned distribution is:
-- **Windows and Mac:** Steam.
+- **Windows and macOS:** Steam.
 - **iOS:** Apple App Store.
 - **Android:** Google Play Store.
 
@@ -164,7 +164,7 @@ For questions that require an official decision or private project information, 
 For questions, suggestions, press enquiries, creator enquiries, or details requiring developer confirmation, visitors may contact:
 
 **Isha**  
-**Email:** isha.arjun28@gmail.com
+Use the official website and its linked public channels for project updates; do not disclose private personal contact details.
 
 Official channels:
 - Website: https://neonaether.netlify.app/
