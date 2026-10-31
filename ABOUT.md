@@ -94,7 +94,7 @@ The official website includes a waitlist. The developer has stated that waitlist
 
 ## Contact
 
-For questions about the game, lore, fan theories, or suggestions, contact the developer:
+For questions about the game, lore, fan theories, or any suggestions, contact the developer:
 
 **Isha**  
 isha.arjun28@gmail.com
