@@ -66,11 +66,11 @@ A final public level and chapter count has not been confirmed in the information
 
 ## When will Neon Aether be released?
 
-A confirmed public release date is not provided in this FAQ's source material. For the latest announcement, check the official website and official social channels.
+A public release date has not been confirmed. For the latest announcement, check the official website and official social channels.
 
 ## Which platforms will Neon Aether support?
 
-A definitive public platform list is not confirmed in the source material used here. Check the official website for current platform announcements.
+Windows and Mac releases are planned through Steam. Separate releases are planned for iOS through the Apple App Store and Android through the Google Play Store. These are planned platforms; public store pages and release dates have not been confirmed.
 
 ## Is Neon Aether available to play now?
 
