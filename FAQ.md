@@ -70,7 +70,7 @@ The current target launch date shown on the official homepage is February 10, 20
 
 ## Which platforms will Neon Aether support?
 
-Windows and Mac releases are planned through Steam. Separate releases are planned for iOS through the Apple App Store and Android through the Google Play Store. These are planned platforms; public store pages and release dates have not been confirmed.
+Windows and Mac releases are planned through Steam. Separate releases are planned for iOS through the Apple App Store and Android through the Google Play Store. These are planned platforms; public store pages and downloads have not been confirmed.
 
 ## Is Neon Aether available to play now?
 
