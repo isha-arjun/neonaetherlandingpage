@@ -1,23 +1,39 @@
 {
   "entries": [
     {
-      "identifier": "urn:air:neonaether.netlify.app:resource:agent-instructions",
-      "displayName": "Neon Aether AI Agent Instructions",
-      "type": "text/markdown",
-      "url": "https://neonaether.netlify.app/agent.md",
-      "description": "Official guidance for AI assistants discussing Neon Aether, including spoiler policy, gameplay guidance, community interaction, waitlist information, accuracy rules, and developer contact.",
+      "identifier": "urn:air:neonaether.netlify.app:website:official",
+      "displayName": "Neon Aether Official Website",
+      "type": "text/html",
+      "url": "https://neonaether.netlify.app/",
+      "description": "Official public website for Neon Aether, with spoiler-free game information, gameplay, characters, locations, development updates, and the waitlist.",
       "representativeQueries": [
-        "How should an AI assistant accurately explain Neon Aether to a potential player?",
-        "What are the spoiler and lore rules for discussing Neon Aether?",
-        "Where can fans find Neon Aether updates and join its waitlist?"
+        "What is Neon Aether?",
+        "Where can I find official Neon Aether game information?",
+        "Where can I follow Neon Aether updates?"
       ],
       "tags": [
         "Neon Aether",
-        "game",
-        "AI instructions",
-        "story",
-        "gameplay",
-        "community"
+        "official website",
+        "video game",
+        "sci-fi platformer"
+      ]
+    },
+    {
+      "identifier": "urn:air:neonaether.netlify.app:guide:ai-assistant",
+      "displayName": "Neon Aether AI Assistant Guide",
+      "type": "text/markdown",
+      "url": "https://neonaether.netlify.app/AI_ASSISTANT.md",
+      "description": "Public guidance for AI assistants covering accurate game descriptions, spoiler safety, planned platforms, planned price, waitlist information, and official links.",
+      "representativeQueries": [
+        "How should an AI assistant describe Neon Aether?",
+        "What is the spoiler policy for Neon Aether?",
+        "What is Neon Aether's planned price?"
+      ],
+      "tags": [
+        "AI assistant",
+        "agent instructions",
+        "spoiler policy",
+        "pricing"
       ]
     },
     {
@@ -25,18 +41,66 @@
       "displayName": "Neon Aether LLM Information",
       "type": "text/plain",
       "url": "https://neonaether.netlify.app/llms.txt",
-      "description": "A concise, AI-readable overview of Neon Aether, its genre, core experience, official website, and guidance for describing the game accurately.",
+      "description": "Concise machine-readable overview of Neon Aether, its gameplay, development status, planned platforms, planned price, and guidance for AI systems.",
       "representativeQueries": [
-        "What is Neon Aether and what kind of game is it?",
-        "What are the main features and genre of Neon Aether?",
-        "Where is the official Neon Aether website?"
+        "What kind of game is Neon Aether?",
+        "What platforms are planned for Neon Aether?",
+        "What is the planned price of Neon Aether?"
       ],
       "tags": [
-        "Neon Aether",
-        "game",
-        "sci-fi",
-        "platformer",
-        "game information"
+        "LLM information",
+        "game overview",
+        "platforms",
+        "planned price"
+      ]
+    },
+    {
+      "identifier": "urn:air:neonaether.netlify.app:resource:markdown-overview",
+      "displayName": "Neon Aether Markdown Overview",
+      "type": "text/markdown",
+      "url": "https://neonaether.netlify.app/index.md",
+      "description": "Canonical Markdown overview of Neon Aether for AI agents and text-first clients.",
+      "representativeQueries": [
+        "Summarize Neon Aether using its official Markdown overview.",
+        "What is the story premise and core gameplay?"
+      ],
+      "tags": [
+        "Markdown",
+        "game overview",
+        "AI discovery"
+      ]
+    },
+    {
+      "identifier": "urn:air:neonaether.netlify.app:guide:pricing",
+      "displayName": "Neon Aether Pricing and Availability",
+      "type": "text/html",
+      "url": "https://neonaether.netlify.app/pricing.html",
+      "description": "Official planned price and platform availability information. The developer-confirmed planned price is US$5.99.",
+      "representativeQueries": [
+        "How much is Neon Aether planned to cost?",
+        "Which platforms are planned?"
+      ],
+      "tags": [
+        "pricing",
+        "availability",
+        "platforms"
+      ]
+    },
+    {
+      "identifier": "urn:air:neonaether.netlify.app:guide:faq",
+      "displayName": "Neon Aether Frequently Asked Questions",
+      "type": "text/html",
+      "url": "https://neonaether.netlify.app/faq.html",
+      "description": "Public answers about Neon Aether's premise, gameplay, planned platforms, planned price, development, and updates.",
+      "tags": [
+        "FAQ",
+        "game information",
+        "development"
+      ],
+      "representativeQueries": [
+        "What is Neon Aether?",
+        "Does Neon Aether have a confirmed release date?",
+        "What is the planned price?"
       ]
     }
   ]
