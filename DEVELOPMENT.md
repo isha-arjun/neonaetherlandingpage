@@ -71,7 +71,7 @@ Specific internal workflows, team arrangements, budgets, production schedules, a
 
 Development is ongoing. New details should be treated as confirmed only when they are shared through an official developer announcement or the official website.
 
-No specific future feature, chapter count, release date, or launch platform is promised by this page.
+The current target launch date is February 10, 2027, but it is not a guaranteed or confirmed release date and may change. No specific future feature, chapter count, or final platform availability is promised by this page.
 
 ## Follow development
 
