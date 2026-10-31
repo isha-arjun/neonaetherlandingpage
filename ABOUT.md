@@ -80,7 +80,7 @@ These are descriptions of the game's genre and design focus, not claims about re
 
 ## Development status and availability
 
-Neon Aether is in active development, and playable levels exist. Neon Aether is planned for Windows and Mac through Steam, with separate releases planned for iOS through the Apple App Store and Android through the Google Play Store. A public release date, system requirements, price, and store pages have not been confirmed.
+Neon Aether is in active development, and playable levels exist. Neon Aether is planned for Windows and Mac through Steam, with separate releases planned for iOS through the Apple App Store and Android through the Google Play Store. The current target launch date shown on the official homepage is February 10, 2027; it is a target, not a guaranteed or confirmed release date. The developer-confirmed planned price is US$5.99; final regional pricing may vary. System requirements and store pages have not been confirmed.
 
 For current announcements and availability information, use the official website and channels listed below.
 
