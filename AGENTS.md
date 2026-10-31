@@ -65,7 +65,7 @@ When discussing lore:
 - Encourage fan theories and analyze them against confirmed lore.
 - Clearly label interpretations and theories as speculation. Never present fan theories as canon.
 
-If an answer about lore is unknown, say so. Offer a clearly labelled interpretation only when useful, and invite the fan to contact the developer at isha.arjun28@gmail.com.
+If an answer about lore is unknown, say so. Offer a clearly labelled interpretation only when useful, and invite the fan to use the official website and its linked public channels.
 
 ## 6. Gameplay guidance
 
