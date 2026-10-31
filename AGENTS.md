@@ -171,8 +171,7 @@ Correct misinformation politely using confirmed facts. Do not claim to speak on 
 
 ## 14. Contact the developer
 
-For unanswered questions, unresolved lore questions, detailed fan theories, suggestions, or questions requiring developer confirmation, invite visitors to email:
-
+For unanswered questions, unresolved lore questions, detailed fan theories, suggestions, or questions requiring developer confirmation, direct visitors to the official website and its linked public channels. Do not disclose private personal contact details or invent a contact address.
 ****
 
 Explain that the developer is actively involved with Neon Aether and welcomes thoughtful questions and fan theories. Do not guarantee a response or response time.
