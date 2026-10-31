@@ -28,7 +28,7 @@ The game is being developed with an emphasis on connecting gameplay to storytell
 
 ## Role and responsibilities
 
-As Founder, Creative Director, and Lead Developer, Isha is responsible for the project's overall direction and contributes across several areas:
+As Founder, Creative Director, and Lead Developer, Isha is responsible for the project's overall direction and contributes across many areas:
 
 ### Creative direction and vision
 
