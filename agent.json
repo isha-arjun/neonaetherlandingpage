@@ -29,7 +29,8 @@
   "policies": {
     "spoilers": "Keep all answers spoiler-free. Do not disclose plot twists, endings, character fates, hidden identities, or unreleased story details.",
     "pricing": "The developer-confirmed planned price is US$5.99. Do not invent regional prices, taxes, or editions.",
-    "availability": "Planned platforms are not confirmed releases or store listings."
+    "availability": "Planned platforms are not confirmed releases or store listings.",
+    "release_date": "The current target launch date is February 10, 2027. This is a target, not a guaranteed or confirmed release date, and may change."
   },
   "pricing": {
     "planned_price": "USD 5.99",
