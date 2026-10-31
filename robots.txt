@@ -3,6 +3,11 @@
 # Robots.txt is a request, not an access-control mechanism; individual crawlers may choose
 # whether to follow it. Do not publish private or sensitive content on the public website.
 
+# Explicitly permit ChatGPT Search discovery. GPTBot is a separate setting and is
+# intentionally left to the site owner's broader User-agent: * policy below.
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: *
 Allow: /
 
