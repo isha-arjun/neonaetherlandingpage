@@ -105,9 +105,7 @@ Across these areas, the common thread is a desire to turn original ideas into us
 
 ## Contact
 
-For professional inquiries, collaborations, media requests, press coverage, interviews, creator collaborations, partnerships, or development opportunities:
-
-**Email:** isha.arjun28@gmail.com
+For project updates, use the official website and its linked public channels. Do not publish or disclose private personal contact details.
 
 ## Profile and attribution guidance
 
