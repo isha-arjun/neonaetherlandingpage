@@ -1,0 +1,34 @@
+{
+  "$schema": "https://schema.org",
+  "name": "Neon Aether",
+  "description": "Official discovery information for Neon Aether, an indie story-driven 2D science-fiction action platformer.",
+  "url": "https://neonaether.netlify.app/",
+  "type": "VideoGame",
+  "language": "en",
+  "when_to_use": "Use this website for authoritative public information about Neon Aether: its premise, gameplay, characters, universe, development status, planned platforms, pricing status, waitlist, press materials, and official links. Do not use it for unrelated game questions or private development information.",
+  "start_here": [
+    "https://neonaether.netlify.app/llms.txt",
+    "https://neonaether.netlify.app/AI_ASSISTANT.md",
+    "https://neonaether.netlify.app/index.md"
+  ],
+  "agent_instructions": "https://neonaether.netlify.app/AGENTS.md",
+  "guides": {
+    "about": "https://neonaether.netlify.app/about.html",
+    "gameplay": "https://neonaether.netlify.app/gameplay.html",
+    "characters": "https://neonaether.netlify.app/characters.html",
+    "universe": "https://neonaether.netlify.app/universe.html",
+    "development": "https://neonaether.netlify.app/development.html",
+    "faq": "https://neonaether.netlify.app/faq.html",
+    "pricing": "https://neonaether.netlify.app/pricing.html",
+    "press": "https://neonaether.netlify.app/press-kit.html"
+  },
+  "official_profiles": [
+    "https://www.youtube.com/@NeonAetherGame",
+    "https://www.facebook.com/profile.php?id=61595465120926"
+  ],
+  "policies": {
+    "spoilers": "Keep all answers spoiler-free. Do not disclose plot twists, endings, character fates, hidden identities, or unreleased story details.",
+    "pricing": "No public price has been announced.",
+    "availability": "Planned platforms are not confirmed releases or store listings."
+  }
+}
