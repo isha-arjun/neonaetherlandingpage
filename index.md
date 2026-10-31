@@ -32,7 +32,7 @@ These are planned platforms, not confirmation of public store pages, downloads, 
 
 ## Price and release date
 
-A public price and confirmed public release date have not been announced. System requirements and store URLs are also not confirmed.
+The developer-confirmed planned price is **US$5.99**. Final regional pricing, taxes, editions, and storefront pricing may vary or be confirmed closer to release. A confirmed public release date has not been announced. System requirements and store URLs are also not confirmed.
 
 See the [pricing and availability page](https://neonaether.netlify.app/pricing.html) and [FAQ](https://neonaether.netlify.app/faq.html).
 
