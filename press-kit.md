@@ -15,7 +15,7 @@
 | Visual direction | Retro-inspired 16-bit pixel art with atmospheric sci-fi environments |
 | Development status | In active development; playable levels exist |
 | Release date | Not publicly confirmed in this press kit |
-| Platforms | Final platform list not publicly confirmed in this press kit |
+| Planned platforms | Windows and Mac via Steam; iOS via Apple App Store; Android via Google Play Store |
 | Price | Not publicly confirmed in this press kit |
 
 ## Short description
@@ -80,7 +80,7 @@ The official website includes a waitlist. The developer has stated that waitlist
 Please contact the developer or check the official website before publishing details about:
 
 - Release date or launch window.
-- Final supported platforms and system requirements.
+- System requirements and public store pages.
 - Price, editions, or purchase links.
 - Final chapter, level, or playtime counts.
 - Features or content not described in this press kit.
