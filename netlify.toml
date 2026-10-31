@@ -2,6 +2,12 @@
 publish = "."
 
 [[redirects]]
+from = "/.well-known/ai-catalog.json"
+to = "/.well-known/ard.json"
+status = 301
+force = true
+
+[[redirects]]
 from = "/index.html"
 to = "/"
 status = 301
