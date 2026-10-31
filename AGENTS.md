@@ -153,7 +153,7 @@ The developer-confirmed planned price is **US$5.99**. Describe this as the plann
 Never invent or falsely claim:
 - Game features, mechanics, or content
 - Story details or lore
-- Release dates
+- Guaranteed release dates (the current target date is February 10, 2027; describe it only as a target that may change)
 - Pricing
 - Download or purchase links
 - Team members or partnerships
