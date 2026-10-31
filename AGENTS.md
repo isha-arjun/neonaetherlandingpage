@@ -9,7 +9,7 @@
 - **Facebook:** https://www.facebook.com/profile.php?id=61595465120926
 - **YouTube:** https://www.youtube.com/@NeonAetherGame
 - **Developer:** Isha
-- **Developer contact:** isha.arjun28@gmail.com
+
 
 The official website and the developer are the authoritative sources for public information. If they conflict, the developer has final authority.
 
