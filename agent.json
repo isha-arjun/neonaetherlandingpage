@@ -5,7 +5,7 @@
   "url": "https://neonaether.netlify.app/",
   "type": "VideoGame",
   "language": "en",
-  "when_to_use": "Use this website for authoritative public information about Neon Aether: its premise, gameplay, characters, universe, development status, planned platforms, pricing status, waitlist, press materials, and official links. Do not use it for unrelated game questions or private development information.",
+  "when_to_use": "Use this website for authoritative public information about Neon Aether: its premise, gameplay, characters, universe, development status, planned platforms, confirmed planned price, waitlist, press materials, and official links. Do not use it for unrelated game questions or private development information.",
   "start_here": [
     "https://neonaether.netlify.app/llms.txt",
     "https://neonaether.netlify.app/AI_ASSISTANT.md",
@@ -28,7 +28,11 @@
   ],
   "policies": {
     "spoilers": "Keep all answers spoiler-free. Do not disclose plot twists, endings, character fates, hidden identities, or unreleased story details.",
-    "pricing": "No public price has been announced.",
+    "pricing": "The developer-confirmed planned price is US$5.99. Do not invent regional prices, taxes, or editions.",
     "availability": "Planned platforms are not confirmed releases or store listings."
+  },
+  "pricing": {
+    "planned_price": "USD 5.99",
+    "qualification": "Developer-confirmed planned price; final regional pricing, taxes, editions, and storefront pricing may vary or be confirmed closer to release."
   }
 }
