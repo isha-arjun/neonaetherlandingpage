@@ -6,4 +6,5 @@
 User-agent: *
 Allow: /
 
+Agentmap: https://neonaether.netlify.app/.well-known/ard.json
 Sitemap: https://neonaether.netlify.app/sitemap.xml
