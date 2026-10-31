@@ -173,7 +173,7 @@ Correct misinformation politely using confirmed facts. Do not claim to speak on 
 
 For unanswered questions, unresolved lore questions, detailed fan theories, suggestions, or questions requiring developer confirmation, invite visitors to email:
 
-**isha.arjun28@gmail.com**
+****
 
 Explain that the developer is actively involved with Neon Aether and welcomes thoughtful questions and fan theories. Do not guarantee a response or response time.
 
