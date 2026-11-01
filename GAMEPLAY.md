@@ -87,3 +87,4 @@ Neon Aether is in active development. The details on this page reflect mechanics
 Website: https://neonaether.netlify.app/
 
 Developer contact: isha.arjun28@gmail.com
+Join the waitlist!
